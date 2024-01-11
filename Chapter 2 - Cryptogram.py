@@ -2,8 +2,3 @@ text = """VZ FRYSVFU VZCNGVRAG NAQ N YVGGYR VAFRPHER V ZNXR ZVFGNXRF V NZ BHG BS
 NAQNG GVZRF UNEQ BG UNAQYR OHG VS LBH PNAG UNAQYR ZR NG ZL JBEFG GURA LBH FHER NF 
 URYYQBAG QRFREIR ZR NG ZL ORFG ZNEVYLA ZBAEBR"""
 
-def decipher (text): 
-    result = ""  
-    for i in (text): 
-        if char.isalpha():
-            
